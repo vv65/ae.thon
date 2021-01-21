@@ -10,7 +10,7 @@ Best User Bot To Manage Your Telegram Account
 
 <a href="https://t.me/UAETHON"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/berliv"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/berliv"><img src="https://img.shields.io/badge/DEV-BERLIN%20-blue.svg?logo=telegram"></a>
 
 <a href="https://youtu.be/HKLtmbiFi_Q"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
