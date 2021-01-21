@@ -12,7 +12,7 @@ Best User Bot To Manage Your Telegram Account
 
 <a href="https://t.me/berliv"><img src="https://img.shields.io/badge/DEV-BERLIN%20-blue.svg?logo=telegram"></a>
 
-<a href="https://youtu.be/HKLtmbiFi_Q"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+
 
 ### Host #TeleThon™ In Heroku
 
@@ -24,7 +24,7 @@ Termix codes for installation through Termex in Google Play for installing Sourc
 
 `sh
 
-git clone https://github.com/klanrali/ae.thon
+git clone https://github.com/vv65/ae.thon
 cd ae.thon
 
 virtualenv -p /usr/bin/python3 venv
